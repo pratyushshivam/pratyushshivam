@@ -31,7 +31,7 @@ I am the architect behind the **72-Hour Protocol**, a revolutionary discovery in
 
 | **Strategic Vision** | **System Architecture** | **Corporate Identity** |
 | :---: | :---: | :---: |
-| <img src="image1.jpg" width="250" alt="Pratyush Shivam - Executive Vision"> | <img src="image6.jpg" width="250" alt="72-Hour Protocol System Architecture"> | <img src="image3.jpeg" width="250" alt="Keisang HR Branding"> |
+| <img src="image1.jpg" width="250" alt="Pratyush Shivam - Executive Vision"> |  | <img src="image3.jpeg" width="250" alt="Keisang HR Branding"> |
 | *Executive Leadership* | *Technical Discovery* | *Global Scale* |
 
 
