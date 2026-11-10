@@ -135,15 +135,15 @@ Thirty seconds, one idea. Short films I make to explain the work in plain terms.
 
 <table>
 <tr>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/shared-by-purpose/"><img src="assets/film-shared-by-purpose.jpg" width="100%" alt="Film by Pratyush Shivam: Shared by purpose, not by default"></a><br><sub><b>Shared by purpose, not by default</b><br>31 seconds</sub></td>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/proof-to-payment/"><img src="assets/film-proof-to-payment.jpg" width="100%" alt="Film by Pratyush Shivam: Proof to payment"></a><br><sub><b>Proof to payment</b><br>36 seconds</sub></td>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/one-network/"><img src="assets/film-one-network.jpg" width="100%" alt="Film by Pratyush Shivam: One network"></a><br><sub><b>One network</b><br>31 seconds</sub></td>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/live-track-and-trace/"><img src="assets/film-live-track-and-trace.jpg" width="100%" alt="Film by Pratyush Shivam: Every load, in plain sight"></a><br><sub><b>Every load, in plain sight</b><br>32 seconds</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/shared-by-purpose/"><img src="assets/film-shared-by-purpose.jpg" width="100%" alt="Film by Pratyush Shivam: Shared by purpose, not by default"></a><br><sub><b>Shared by purpose, not by default</b><br>31 seconds · Role-based visibility on one record</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/proof-to-payment/"><img src="assets/film-proof-to-payment.jpg" width="100%" alt="Film by Pratyush Shivam: Proof to payment"></a><br><sub><b>Proof to payment</b><br>36 seconds · Delivery evidence becomes the invoice</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/one-network/"><img src="assets/film-one-network.jpg" width="100%" alt="Film by Pratyush Shivam: One network"></a><br><sub><b>One network</b><br>31 seconds · Connect once, work with everyone</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/live-track-and-trace/"><img src="assets/film-live-track-and-trace.jpg" width="100%" alt="Film by Pratyush Shivam: Every load, in plain sight"></a><br><sub><b>Every load, in plain sight</b><br>32 seconds · Tracking inside the shipment record</sub></td>
 </tr>
 <tr>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/documents-approved/"><img src="assets/film-documents-approved.jpg" width="100%" alt="Film by Pratyush Shivam: Documents, approved"></a><br><sub><b>Documents, approved</b><br>32 seconds</sub></td>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/backhaul/"><img src="assets/film-backhaul.jpg" width="100%" alt="Film by Pratyush Shivam: Backhaul"></a><br><sub><b>Backhaul</b><br>32 seconds</sub></td>
-<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/one-record/"><img src="assets/film-one-record.jpg" width="100%" alt="Film by Pratyush Shivam: One record"></a><br><sub><b>One record</b><br>40 seconds</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/documents-approved/"><img src="assets/film-documents-approved.jpg" width="100%" alt="Film by Pratyush Shivam: Documents, approved"></a><br><sub><b>Documents, approved</b><br>32 seconds · Approvals on the shared record</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/backhaul/"><img src="assets/film-backhaul.jpg" width="100%" alt="Film by Pratyush Shivam: Backhaul"></a><br><sub><b>Backhaul</b><br>32 seconds · The empty leg home becomes a paid one</sub></td>
+<td width="25%" align="center" valign="top"><a href="https://www.pratyushshivam.com/films/one-record/"><img src="assets/film-one-record.jpg" width="100%" alt="Film by Pratyush Shivam: One record"></a><br><sub><b>One record</b><br>40 seconds · One shipment, one version of the truth</sub></td>
 </tr>
 </table>
 
