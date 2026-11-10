@@ -255,3 +255,5 @@ Investors in digital freight infrastructure, operators tired of reconciling pape
   <img src="assets/footer-light.svg" width="100%" alt="Start a new one. Contact Pratyush Shivam at pratyushshivam.com">
 </picture>
 </a>
+
+<p align="center"><sub>The graphics on this page are hand-written SVG with CSS animation, in the same paper, ink and orange as <a href="https://www.pratyushshivam.com/">pratyushshivam.com</a>. They follow your light or dark theme.</sub></p>
