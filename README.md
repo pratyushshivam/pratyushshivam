@@ -79,6 +79,8 @@ I work on permissioned, Ethereum-compatible networks: smart contracts, transacti
 
 Read more: [Enterprise blockchain](https://www.pratyushshivam.com/expertise/enterprise-blockchain/) · [GoQuorum and private Ethereum networks](https://www.pratyushshivam.com/expertise/goquorum-private-networks/) · [Smart contracts](https://www.pratyushshivam.com/expertise/smart-contracts/)
 
+<p align="right"><a href="#pratyush-shivam"><sub>Back to top ↑</sub></a></p>
+
 ## Stack
 
 Broad enough to make the trade-offs, deep enough to own the consequences.
@@ -111,6 +113,8 @@ Seven areas I work in every day. Each links to the position I hold on it, with t
 | [**Logistics technology**](https://www.pratyushshivam.com/expertise/logistics-technology/) | Why reconciliation is the hidden cost of freight, and how one shared record removes it. |
 | [**Carbon accounting for freight**](https://www.pratyushshivam.com/expertise/carbon-accounting/) | Emissions measured from the delivered trip instead of estimated months later. |
 | [**Technology leadership**](https://www.pratyushshivam.com/expertise/technology-leadership/) | Small teams, high ownership, decisions written down. |
+
+<p align="right"><a href="#pratyush-shivam"><sub>Back to top ↑</sub></a></p>
 
 ## Writing
 
@@ -145,6 +149,8 @@ Thirty seconds, one idea. Short films I make to explain the work in plain terms.
 
 [All films →](https://www.pratyushshivam.com/films/)
 
+<p align="right"><a href="#pratyush-shivam"><sub>Back to top ↑</sub></a></p>
+
 ## Path
 
 <picture>
@@ -172,6 +178,8 @@ Alongside: co-founder and CEO of [Keisang HR](https://keisang.com). Education: B
 4. **Connect once, work with everyone.** Every integration we avoid is a project our customers never have to fund.
 
 **How I lead.** Small teams, high ownership. I hire for judgement over frameworks, write down decisions so they outlive meetings, and treat every outage as a design review, not a blame session.
+
+<p align="right"><a href="#pratyush-shivam"><sub>Back to top ↑</sub></a></p>
 
 ## Questions
 
