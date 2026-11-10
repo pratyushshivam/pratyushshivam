@@ -17,6 +17,8 @@
 
 **Chief Technology Officer at [Konfidio](https://konfid.io). I lead the technology behind [TrustedTrucks](https://www.trustedtrucks.com): one permissioned blockchain network where European shippers, carriers and forwarders work from the same record of every shipment, from the first quote to proof of delivery and payment.**
 
+**Now:** leading the engineering behind TrustedTrucks in production, and writing about what that takes.
+
 I work on distributed systems, enterprise blockchain and product engineering. I joined as an engineer and moved into the CTO role in 2024, so I have written the code I now set direction for.
 
 <picture>
