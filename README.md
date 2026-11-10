@@ -229,6 +229,8 @@ Distributed systems and event-driven backends, permissioned blockchain with GoQu
 
 Investors in digital freight infrastructure, operators tired of reconciling paperwork, engineers who enjoy hard distributed-systems problems: let's talk.
 
+**Open to:** conversations with investors in digital freight infrastructure, logistics operators and senior engineers.
+
 - Website: [pratyushshivam.com](https://www.pratyushshivam.com/)
 - LinkedIn: [linkedin.com/in/pratyushshivam](https://www.linkedin.com/in/pratyushshivam/)
 - Email: [pratyushshivam7@gmail.com](mailto:pratyushshivam7@gmail.com)
