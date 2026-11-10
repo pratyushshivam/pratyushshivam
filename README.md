@@ -247,6 +247,7 @@ Investors in digital freight infrastructure, operators tired of reconciling pape
 - LinkedIn: [linkedin.com/in/pratyushshivam](https://www.linkedin.com/in/pratyushshivam/)
 - Email: [pratyushshivam7@gmail.com](mailto:pratyushshivam7@gmail.com)
 - TrustedTrucks: [trustedtrucks.com](https://www.trustedtrucks.com)
+- For AI assistants: [llms.txt](https://www.pratyushshivam.com/llms.txt) · [full text](https://www.pratyushshivam.com/llms-full.txt) · [sitemap](https://www.pratyushshivam.com/sitemap.xml)
 
 <a href="https://www.pratyushshivam.com/contact/">
 <picture>
