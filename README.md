@@ -11,20 +11,18 @@ Freight still runs on five versions of the truth: an email, a PDF, a tracking po
 
 ### Now
 
-**Konfidio GmbH** · Chief Technology Officer
+**Konfidio GmbH** · Chief Technology Officer<br>
 Leading the technology behind [TrustedTrucks](https://trustedtrucks.com), a permissioned network where shippers, carriers and forwarders share one record of every shipment, from the first quote to proof of delivery and payment. Web platform, Android app on Google Play, and the blockchain layer that anchors the evidence underneath.
 
-**Keisang HR** · Co-founder & CEO
+**Keisang HR** · Co-founder & CEO<br>
 Engineering hiring built for speed and proof: a verified network of engineers and skills-based validation, so startups can hire in days instead of weeks. [keisang.com](https://keisang.com)
 
 ### What I work on
 
-|  |  |
-| :--- | :--- |
-| **Distributed systems** | Event-driven backends, Kubernetes and AWS in production |
-| **Permissioned blockchain** | GoQuorum, Solidity, evidence anchoring, multi-party approvals |
-| **Product engineering** | Node.js, Next.js, React, React Native |
-| **Freight data** | Delivery evidence to invoice, carbon per trip (GLEC Framework, ISO 14083) |
+- **Distributed systems:** event-driven backends, Kubernetes and AWS in production
+- **Permissioned blockchain:** GoQuorum, Solidity, evidence anchoring, multi-party approvals
+- **Product engineering:** Node.js, Next.js, React, React Native
+- **Freight data:** delivery evidence to invoice, carbon per trip (GLEC Framework, ISO 14083)
 
 ### How I build
 
