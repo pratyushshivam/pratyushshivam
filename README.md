@@ -102,13 +102,15 @@ Also in the toolbox: REST and GraphQL API design, OAuth 2.0 and OpenID Connect, 
 
 Seven areas I work in every day. Each links to the position I hold on it, with the work, writing and films that back it up.
 
-- [**Enterprise blockchain**](https://www.pratyushshivam.com/expertise/enterprise-blockchain/): Permissioned networks between known companies, with visibility designed per role.
-- [**GoQuorum and private Ethereum networks**](https://www.pratyushshivam.com/expertise/goquorum-private-networks/): Why Ethereum tooling carries over, and what operating a private network really involves.
-- [**Smart contracts for business agreements**](https://www.pratyushshivam.com/expertise/smart-contracts/): Multi-party approvals and document evidence written as code, with honesty about what is proven.
-- [**Distributed systems**](https://www.pratyushshivam.com/expertise/distributed-systems/): Event-driven backends, Kubernetes and AWS in production, and outages treated as design reviews.
-- [**Logistics technology**](https://www.pratyushshivam.com/expertise/logistics-technology/): Why reconciliation is the hidden cost of freight, and how one shared record removes it.
-- [**Carbon accounting for freight**](https://www.pratyushshivam.com/expertise/carbon-accounting/): Emissions measured from the delivered trip instead of estimated months later.
-- [**Technology leadership**](https://www.pratyushshivam.com/expertise/technology-leadership/): Small teams, high ownership, decisions written down.
+| Area | Where I stand |
+| :-- | :-- |
+| [**Enterprise blockchain**](https://www.pratyushshivam.com/expertise/enterprise-blockchain/) | Permissioned networks between known companies, with visibility designed per role. |
+| [**GoQuorum and private Ethereum networks**](https://www.pratyushshivam.com/expertise/goquorum-private-networks/) | Why Ethereum tooling carries over, and what operating a private network really involves. |
+| [**Smart contracts for business agreements**](https://www.pratyushshivam.com/expertise/smart-contracts/) | Multi-party approvals and document evidence written as code, with honesty about what is proven. |
+| [**Distributed systems**](https://www.pratyushshivam.com/expertise/distributed-systems/) | Event-driven backends, Kubernetes and AWS in production, and outages treated as design reviews. |
+| [**Logistics technology**](https://www.pratyushshivam.com/expertise/logistics-technology/) | Why reconciliation is the hidden cost of freight, and how one shared record removes it. |
+| [**Carbon accounting for freight**](https://www.pratyushshivam.com/expertise/carbon-accounting/) | Emissions measured from the delivered trip instead of estimated months later. |
+| [**Technology leadership**](https://www.pratyushshivam.com/expertise/technology-leadership/) | Small teams, high ownership, decisions written down. |
 
 ## Writing
 
