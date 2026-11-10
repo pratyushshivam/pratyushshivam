@@ -24,6 +24,14 @@ I work on distributed systems, enterprise blockchain and product engineering. I 
   <img src="assets/marquee-light.svg" width="100%" alt="Distributed systems, permissioned blockchain, product engineering, smart contracts, Kubernetes in production, one shared record">
 </picture>
 
+| | |
+| :-- | :-- |
+| **Role** | Chief Technology Officer, Konfidio GmbH |
+| **Building** | [TrustedTrucks](https://www.trustedtrucks.com), one shared record for European freight |
+| **Focus** | Distributed systems, permissioned blockchain, product engineering |
+| **Shipped** | Web platform, Android app on Google Play, production GoQuorum network |
+| **Writing** | Four articles on blockchain and freight, collected on [pratyushshivam.com](https://www.pratyushshivam.com/writing/) |
+
 **Contents:** [Premise](#the-premise) · [Selected work](#selected-work) · [Blockchain](#blockchain-infrastructure-not-a-pitch) · [Stack](#stack) · [Expertise](#expertise) · [Writing](#writing) · [Films](#films) · [Path](#path) · [How I build](#how-i-build) · [Questions](#questions) · [Contact](#contact)
 
 ## The premise
