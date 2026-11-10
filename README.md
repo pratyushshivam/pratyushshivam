@@ -233,6 +233,10 @@ Distributed systems and event-driven backends, permissioned blockchain with GoQu
 
 [More questions →](https://www.pratyushshivam.com/faq/)
 
+## Topics
+
+`enterprise blockchain` · `permissioned blockchain` · `GoQuorum` · `Ethereum` · `Solidity` · `smart contracts` · `distributed systems` · `Kubernetes` · `AWS` · `Node.js` · `Next.js` · `React Native` · `logistics technology` · `freight` · `carbon accounting` · `CTO`
+
 ## Contact
 
 Investors in digital freight infrastructure, operators tired of reconciling paperwork, engineers who enjoy hard distributed-systems problems: let's talk.
