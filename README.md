@@ -158,7 +158,7 @@ Thirty seconds, one idea. Short films I make to explain the work in plain terms.
 | 2018 – 2020 | Freelance Frontend Developer | Clairseme |
 | 2016 – 2018 | Software Developer | Deluxe e Ricco |
 
-Alongside: co-founder and CEO of [Keisang HR](https://keisang.com). Education: B.Tech in Computer Science, KIIT; Blockchain and Cryptocurrency, University of Michigan. Full [résumé](https://www.pratyushshivam.com/resume/) with PDF.
+Alongside: co-founder and CEO of [Keisang HR](https://keisang.com). Education: B.Tech in Computer Science, KIIT; Blockchain and Cryptocurrency, University of Michigan. Full [résumé](https://www.pratyushshivam.com/resume/), or download the [one-page PDF](https://www.pratyushshivam.com/Pratyush-Shivam-Resume.pdf).
 
 ## How I build
 
