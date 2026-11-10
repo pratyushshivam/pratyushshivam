@@ -24,6 +24,8 @@ I work on distributed systems, enterprise blockchain and product engineering. I 
   <img src="assets/marquee-light.svg" width="100%" alt="Distributed systems, permissioned blockchain, product engineering, smart contracts, Kubernetes in production, one shared record">
 </picture>
 
+**Contents:** [Premise](#the-premise) · [Selected work](#selected-work) · [Blockchain](#blockchain-infrastructure-not-a-pitch) · [Stack](#stack) · [Expertise](#expertise) · [Writing](#writing) · [Films](#films) · [Path](#path) · [How I build](#how-i-build) · [Questions](#questions) · [Contact](#contact)
+
 ## The premise
 
 Freight is one of the largest industries in Europe, and it still runs on five versions of the truth: an email, a PDF, a tracking portal, a paper signature and a retyped invoice. Every dispute, every late payment and every guessed emission traces back to that.
