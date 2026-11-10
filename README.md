@@ -12,7 +12,7 @@ I am a technical architect and executive focused on refactoring the global talen
 
 ## 🏛️ Professional Ecosystem
 
-### **CTO @ TrustedTrucks (Germany & Europe)**
+### **CTO @ Konfidio GmbH (Germany & Europe)**
 As the **Chief Technology Officer**, I lead the technical vision for one of Europe's most ambitious logistics infrastructures.
 * **Decentralized Logistics:** Architecting high-availability frameworks to streamline transport across the continent.
 * **System Integrity:** Implementing advanced **Blockchain and Web3** protocols to ensure data transparency and security in cross-border supply chains.
