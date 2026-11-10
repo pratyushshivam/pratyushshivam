@@ -1,62 +1,46 @@
-# ⚡ Pratyush Shivam | Global Tech Executive 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" width="100%" alt="Pratyush Shivam. One record every party can rely on. Distributed systems and permissioned blockchain for European freight.">
+</picture>
 
-### **Bridging the Gap Between Scalable Workforce Solutions and Decentralized Logistics**
+<br>
 
-![Role](https://img.shields.io/badge/Role-CEO%20%26%20CTO-blue?style=for-the-badge) 
-![Expertise](https://img.shields.io/badge/Focus-Web3%20%7C%20Logistics-green?style=for-the-badge)
-![Network](https://img.shields.io/badge/Community-5000+%20Engineers-orange?style=for-the-badge)
+I build systems that let companies who don't fully trust each other work from the same record.
 
-I am a technical architect and executive focused on refactoring the global talent supply chain. By merging **Just-In-Time (JIT) logistics** with **AI-driven recruitment**, I have engineered a framework where technical scaling meets industrial precision.
+Freight still runs on five versions of the truth: an email, a PDF, a tracking portal, a paper signature and a retyped invoice. Every dispute, late payment and guessed emission traces back to that gap. My work is closing it.
 
----
+### Now
 
-## 🏛️ Professional Ecosystem
+**Konfidio GmbH** · Chief Technology Officer
+Leading the technology behind [TrustedTrucks](https://trustedtrucks.com), a permissioned network where shippers, carriers and forwarders share one record of every shipment, from the first quote to proof of delivery and payment. Web platform, Android app on Google Play, and the blockchain layer that anchors the evidence underneath.
 
-### **CTO @ Konfidio GmbH (Germany & Europe)**
-As the **Chief Technology Officer**, I lead the technical vision for one of Europe's most ambitious logistics infrastructures.
-* **Decentralized Logistics:** Architecting high-availability frameworks to streamline transport across the continent.
-* **System Integrity:** Implementing advanced **Blockchain and Web3** protocols to ensure data transparency and security in cross-border supply chains.
-* **Stack Leadership:** Overseeing complex deployments using **NodeJS, AWS, and ReactJS** to maintain operational excellence.
+**Keisang HR** · Co-founder & CEO
+Engineering hiring built for speed and proof: a verified network of engineers and skills-based validation, so startups can hire in days instead of weeks. [keisang.com](https://keisang.com)
 
-### **CEO & Co-Founder @ Keisang HR Private Limited**
-I am the architect behind the **72-Hour Protocol**, a revolutionary discovery in engineering recruitment velocity.
-* **The Rapid Hiring Model:** Eliminated the traditional 30-day hiring bottleneck by shrinking the elite talent acquisition window to just 72 hours.
-* **KAC Validation:** Developed the **Keisang Awards & Certifications** system, an automated technical "Proof of Skill" firewall for the global talent market.
-* **Strategic Growth:** Scaling a verified network of over 5,000 engineering professionals to support global startup expansion.
+### What I work on
 
----
+|  |  |
+| :--- | :--- |
+| **Distributed systems** | Event-driven backends, Kubernetes and AWS in production |
+| **Permissioned blockchain** | GoQuorum, Solidity, evidence anchoring, multi-party approvals |
+| **Product engineering** | Node.js, Next.js, React, React Native |
+| **Freight data** | Delivery evidence to invoice, carbon per trip (GLEC Framework, ISO 14083) |
 
-## 🖼️ Visual Architecture & Leadership
-*A look into the systems and branding behind the vision.*
+### How I build
 
-| **Strategic Vision** | **System Architecture** | **Corporate Identity** |
-| :---: | :---: | :---: |
-| <img src="image1.jpg" width="250" alt="Pratyush Shivam - Executive Vision"> |  | <img src="image3.jpeg" width="250" alt="Keisang HR Branding"> |
-| *Executive Leadership* | *Technical Discovery* | *Global Scale* |
+- **Infrastructure should be invisible.** A dispatcher should see "approved", never a wallet or a hash.
+- **Be honest about what technology proves.** A fingerprint is not a signature, and a chain doesn't replace people.
+- **Production is the real test.** Designing a network is one challenge; running it every day is another.
+- **Connect once, work with everyone.** Every integration avoided is a project nobody has to fund.
 
+### Writing
 
+- [Why Freight Belongs on a Permissioned Blockchain, Not a Public One](https://www.linkedin.com/pulse/why-freight-belongs-permissioned-blockchain-public-one-shivam-begne/)
+- [What a Blockchain Can Prove in Logistics, and What It Can't](https://www.linkedin.com/pulse/what-blockchain-can-prove-logistics-cant-pratyush-shivam-ndure/)
+- [The Most Expensive Part of Freight Isn't the Truck](https://www.linkedin.com/pulse/most-expensive-part-freight-isnt-truck-pratyush-shivam-8757e/)
+- [Carbon Accounting Belongs Inside the Shipment, Not After It](https://www.linkedin.com/pulse/carbon-accounting-belongs-inside-shipment-after-pratyush-shivam-8v0fe/)
+- More on [HackerNoon](https://hackernoon.com/u/pratyushshivam) and [Hashnode](https://hashnode.com/@pratyushshivam)
 
----
+### Elsewhere
 
-## 📈 Technical Prowess & Discovery
-I don't just lead teams; I architect the logic that makes them possible.
-
-| Component | Technology | Impact |
-| :--- | :--- | :--- |
-| **Backend** | NodeJS / AWS / GraphQL | Low-latency, high-availability infrastructure. |
-| **Frontend** | ReactJS / TypeScript | Sleek, minimalist, high-impact user interfaces. |
-| **Infrastructure**| Web3 / Blockchain | Decentralized trust layers for global logistics. |
-| **Recruitment** | AI / Predictive Analytics | The 72-Hour Protocol for elite talent deployment. |
-
----
-
-## 🔗 Verified Authority
-* **Corporate Hub:** [Keisang.com](https://keisang.com)
-* **Technical Deep-Dives:** [Pratyush Shivam on HackerNoon](https://hackernoon.com/u/pratyushshivam)
-* **Engineering Insights:** [Pratyush Shivam on Hashnode](https://hashnode.com/@pratyushshivam)
-* **Executive Profile:** [LinkedIn](https://www.linkedin.com/in/pratyushshivam/)
-
----
-*“Efficiency is the only moat that matters.” — Pratyush Shivam*
-
-Copyright © 2026 **Pratyush Shivam**. Founder of **Keisang HR Private Limited**. All Rights Reserved.
+[LinkedIn](https://www.linkedin.com/in/pratyushshivam/) · [pratyushshivam.com](https://pratyushshivam.com) · [trustedtrucks.com](https://trustedtrucks.com) · [keisang.com](https://keisang.com)
