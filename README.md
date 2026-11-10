@@ -121,6 +121,8 @@ Thinking, written down.
 - [**The Most Expensive Part of Freight Isn't the Truck**](https://www.pratyushshivam.com/writing/the-most-expensive-part-of-freight/)<br>Reconciliation rarely gets its own line in a budget. It should.
 - [**Carbon Accounting Belongs Inside the Shipment, Not After It**](https://www.pratyushshivam.com/writing/carbon-accounting-inside-the-shipment/)<br>Carbon belongs in the shipment record, measured from the trip that happened.
 
+> A fingerprint shows that a document has not changed. It does not show the document was true. Saying that plainly is what makes the rest of the claim credible.
+
 [All articles →](https://www.pratyushshivam.com/writing/) · [RSS](https://www.pratyushshivam.com/feed.xml)
 
 ## Films
