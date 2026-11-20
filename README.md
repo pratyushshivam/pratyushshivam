@@ -21,6 +21,11 @@
 
 I work on distributed systems, enterprise blockchain and product engineering. I joined as an engineer and moved into the CTO role in 2024, so I have written the code I now set direction for.
 
+<p align="center">
+  <img src="assets/pratyush-shivam-blockchain-hackathon-ranchi.jpg" width="320" alt="Pratyush Shivam, CTO of Konfidio, mid-explanation at a blockchain hackathon at Software Technology Parks of India, Ranchi"><br>
+  <sub>Mid-explanation at a blockchain hackathon at Software Technology Parks of India, Ranchi.</sub>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/marquee-dark.svg">
   <img src="assets/marquee-light.svg" width="100%" alt="Distributed systems, permissioned blockchain, product engineering, smart contracts, Kubernetes in production, one shared record">
@@ -168,7 +173,7 @@ Thirty seconds, one idea. Short films I make to explain the work in plain terms.
 | 2018 – 2020 | Freelance Frontend Developer | Clairseme |
 | 2016 – 2018 | Software Developer | Deluxe e Ricco |
 
-Alongside: co-founder and CEO of [Keisang HR](https://keisang.com). Education: B.Tech in Computer Science, KIIT; Blockchain and Cryptocurrency, University of Michigan. Full [résumé](https://www.pratyushshivam.com/resume/), or download the [one-page PDF](https://www.pratyushshivam.com/Pratyush-Shivam-Resume.pdf).
+Alongside: co-founder and CEO of [Keisang HR](https://keisang.com). Education: B.Tech in Computer Science, KIIT. Certification: Blockchain and Cryptocurrency Explained, University of Michigan (Coursera). Full [résumé](https://www.pratyushshivam.com/resume/), or download the [one-page PDF](https://www.pratyushshivam.com/Pratyush-Shivam-Resume.pdf).
 
 ## How I build
 
