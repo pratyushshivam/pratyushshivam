@@ -39,7 +39,7 @@ I work on distributed systems, enterprise blockchain and product engineering. I 
 | **Shipped** | Web platform, Android app on Google Play, production GoQuorum network |
 | **Writing** | Four articles on blockchain and freight, collected on [pratyushshivam.com](https://www.pratyushshivam.com/writing/) |
 
-**Contents:** [Premise](#the-premise) · [Selected work](#selected-work) · [Blockchain](#blockchain-infrastructure-not-a-pitch) · [Stack](#stack) · [Expertise](#expertise) · [Writing](#writing) · [Films](#films) · [Path](#path) · [How I build](#how-i-build) · [Questions](#questions) · [Contact](#contact)
+**Contents:** [Premise](#the-premise) · [Selected work](#selected-work) · [Own time](#built-in-my-own-time) · [Blockchain](#blockchain-infrastructure-not-a-pitch) · [Stack](#stack) · [Expertise](#expertise) · [Writing](#writing) · [Films](#films) · [Path](#path) · [How I build](#how-i-build) · [Questions](#questions) · [Contact](#contact)
 
 ## The premise
 
@@ -66,6 +66,12 @@ Six parts of one system. Everything here ships as one product, TrustedTrucks, an
 | **06** | [**The network in a pocket**](https://www.pratyushshivam.com/work/the-network-in-a-pocket/) | The TrustedTrucks Android app on Google Play: post loads, send quotes, approve proof of delivery and confirm invoices. |
 
 [All case studies →](https://www.pratyushshivam.com/work/)
+
+## Built in my own time
+
+<a href="https://pratyushshivam.github.io/inside-the-chain/"><img src="assets/inside-the-chain.jpg" width="100%" alt="Inside the Chain by Pratyush Shivam: threads of light converge on a new Ethereum block above the live mempool"></a>
+
+**[Inside the Chain](https://pratyushshivam.github.io/inside-the-chain/)** is a live, first-person 3D world of Ethereum mainnet in the browser. The mempool is an ocean of real pending transactions, ranked by fee; every 12 seconds a real block rises out of it, is sealed with its builder's name and docks onto a glass bridge that runs back through every block since 30 July 2015. three.js and WebGL2, one static page, no server. [Source](https://github.com/pratyushshivam/inside-the-chain) · [Film](https://youtu.be/NatnqijO7f4)
 
 ## Blockchain: infrastructure, not a pitch
 
